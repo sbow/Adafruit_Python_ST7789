@@ -1,5 +1,5 @@
 # "Adafruit"_Python_ST7789
-Adafruit 240x240px 1.5” TFT Python Driver - Raspberry PI - ST7789 
+Adafruit 240x240px 1.5” TFT Display - Python Driver - Raspberry PI - ST7789 
 
 This library was created by modifying a similar library for the ILI9341 chip, such that it works with the new ST7789 based display.
 
