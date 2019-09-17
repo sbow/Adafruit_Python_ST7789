@@ -3,7 +3,7 @@ Adafruit 240x240px 1.5” TFT Display - Python Driver - Raspberry PI - ST7789
 
 This library was created by modifying a similar library for the ILI9341 chip, such that it works with the new ST7789 based display.
 
-This library was not actually released by Adafruit - it's just heavily based on one.
+This library was not actually released by Adafruit - it's just heavily based on one, or actually two.
 
 See below for clear & easy instalation instructions.
 Install includes easy to use examples.
