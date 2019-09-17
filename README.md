@@ -6,6 +6,7 @@ This library was created by modifying a similar library for the ILI9341 chip, su
 This library was not actually released by Adafruit - it's just heavily based on one, or actually two.
 
 See below for clear & easy instalation instructions.
+
 Install includes easy to use examples.
 
 Adafruit Python ST7789
