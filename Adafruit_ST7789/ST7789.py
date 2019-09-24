@@ -246,7 +246,9 @@ class ST7789(object):
     def clear(self, color=(0,0,0)):
         """Clear the image buffer to the specified RGB color (default black)."""
         width, height = self.buffer.size
-        self.buffer.putdata([color]*(width*height))
+        #self.buffer.putdata([color]*(width*height))
+        im = Image.new('RGB', (width,height), color)
+        self.display(im)
 
     def draw(self):
         """Return a PIL ImageDraw instance for 2D drawing on the image buffer."""
